@@ -28,3 +28,30 @@ THIS IS NO HEADING PLAIN TEXT
 - Electrical engineering, faculty of engineering, SWU.
 - Robotics and automation engineering, faculty of engineering,  Khon kaen university.
 - Robotics and automation engineering, Institue of field robotic, KMUTT.
+- Artifitial intelligence,interdiscipline college, KMITL.
+- Electircal engineering, faculty fo engineering, kasetsart university.
+- ### PLANT B
+- Aeronautical engineering, Civil avaiation training center.
+- Computer engineering, Faculty of engineering, Ramkhamhaeng university.
+- Embedded system engineering, faculty of engineering, Suranaree university.
+
+  ## ALL OF OPTION WILL BE USELESS IF I DONT GET SCHOLARSHIPS FOR STUDYING IN UNIVERSITY
+  
+  <img width="563" height="563" alt="Screenshot 2025-07-25 185558" src="https://github.com/user-attachments/assets/c4ca24a8-ae15-45fe-b50a-fd74045e2023" />
+
+### I really love this hamster.... i dont remember it's name but channel i took the picture from is kumaqq on youtube!
+
+  
+<img width="171" height="254" alt="Screenshot 2025-07-30 223714" src="https://github.com/user-attachments/assets/068246cc-f5fa-4af6-bedf-91046e8215a5" />
+
+__this is a very cute game on roblox__
+this is a normal text used to compare normal message to bold message like above!
+
+
+message is probably some codes! >>> `is this a code messaged!??!`
+```c++
+#include <iostream>;
+using namespace std;
+int my_input;
+cout << "please enter input as a number! : "
+cin >> my_input;
