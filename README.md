@@ -79,9 +79,11 @@ ________________________________________________________
 - [ ] update my python progress
 - [x] played daily world of warships and war thunder
 
-~~it's bibo time!~~
-~~it's guyover!~~
-~~i nate higger!~~
-~~battleship, starbroad! twelve thousand meters!~~
-~~torpedoes dead ahead!~~
+~~it's bibo time!~~  
+~~it's guyover!~~    
+~~i nate higger!~~  
+~~battleship, starbroad! twelve thousand meters!~~  
+~~torpedoes dead ahead!~~  
 
+# THE END OF MY FIRST GITHUB REPO thanks to geeksforgeeks
+<img width="1414" height="826" alt="Screenshot 2025-12-03 155144" src="https://github.com/user-attachments/assets/2558221d-41ad-44d4-ab91-21bf082c70d2" />
