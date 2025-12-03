@@ -49,9 +49,39 @@ this is a normal text used to compare normal message to bold message like above!
 
 
 message is probably some codes! >>> `is this a code messaged!??!`
-```c++
+```cpp
 #include <iostream>;
 using namespace std;
+
+int main() {
 int my_input;
-cout << "please enter input as a number! : "
+cout << "please enter input as a number! : ";
 cin >> my_input;
+cout << "your input number is : " << my_input;
+}
+```
+
+> this is blockquote
+________________________________________________________
+> also blockquote
+
+|question                 |booleans|
+|-------------------------|--------|
+|chinna like hamster      |True    |
+|chinna love study        |True    |
+|chinna hate chinese      |False   |
+|chinna love naval game   |True    |
+
+- [x] eating breakfast
+- [x] eating lunch
+- [ ] update daily c++ progression
+- [ ] looking through my python githyb repo progress
+- [ ] update my python progress
+- [x] played daily world of warships and war thunder
+
+~~it's bibo time!~~
+~~it's guyover!~~
+~~i nate higger!~~
+~~battleship, starbroad! twelve thousand meters!~~
+~~torpedoes dead ahead!~~
+
