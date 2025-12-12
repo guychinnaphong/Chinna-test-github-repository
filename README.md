@@ -49,7 +49,7 @@ this is a normal text used to compare normal message to bold message like above!
 
 
 message is probably some codes! >>> `is this a code messaged!??!`
-```cplusplus
+```cpp
 #include <iostream>;
 using namespace std;
 
